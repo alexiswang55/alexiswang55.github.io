@@ -660,6 +660,17 @@ body {
 /* 07. SKILLS
 =================================================*/
 
+.parallax {
+	background: #d5f4e6;
+	min-height: 200px;
+
+  /* background-image: url("/Users/student/Desktop/alexiswang55.github.io/assets/img/parallax.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
 #skills {
 	padding: 95px 0 50px;
 	background: #d5f4e6;
